@@ -1,4 +1,4 @@
-# Issues with Breakdance Builder for WordPress (Episode 2)
+# Issues with Breakdance Builder (Episode 2)
 
 This is the second version of code and instuctions for correcting or finding workaround for some issues with the Breakdance WordPress Builder.
 
