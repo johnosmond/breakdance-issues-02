@@ -6,6 +6,8 @@ The first version (DEPRECATED) can be found here: https://github.com/johnosmond/
 
 The first version has a work around for Issue #2 but this version has a full fix.
 
+This version has video to explain all of it that can be found here: https://youtu.be/zxBGHlqPO3g?si=8aL6u_dj7QfhOLri
+
 ## Issues
 
 ### Issue #1
