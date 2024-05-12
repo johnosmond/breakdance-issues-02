@@ -146,6 +146,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 I believe that is all. I hope that helps you out.
 
-You can find a video about this here: 
+You can find a video about this here: https://youtu.be/zxBGHlqPO3g?si=8aL6u_dj7QfhOLri
 
 -- John Osmond
