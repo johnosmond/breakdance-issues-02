@@ -56,6 +56,7 @@ Add this CSS to the custom CSS for the menu builder. Be sure that your viewport 
   color: red;
 }
 ```
+UPDATE! If you are using a WP menu instead of a custom menu, just change '__label' to '__text' and everything else should work fine.
 
 In other words, select the 'Menu Builder' in the structure on the right. Then select the 'Advanced' tab on the left. In the 'Custom CSS' block, remove the default code, and paste the code written above.
 
